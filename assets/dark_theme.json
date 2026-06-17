@@ -1,0 +1,25 @@
+{
+  "_comment": "AI-POCStudio 暗黑科技风主题配色",
+  "colors": {
+    "bg_primary": "#0d1117",
+    "bg_secondary": "#161b22",
+    "bg_tertiary": "#1a1a2e",
+    "accent_blue": "#00ccff",
+    "accent_green": "#00ff88",
+    "accent_red": "#ff4444",
+    "accent_orange": "#ff6644",
+    "accent_yellow": "#ffd700",
+    "text_primary": "#e0e0e0",
+    "text_secondary": "#aaaaaa",
+    "text_muted": "#666666",
+    "border": "#30363d",
+    "button_primary": "#1a5276",
+    "button_hover": "#2980b9",
+    "button_danger": "#e74c3c",
+    "button_success": "#27ae60",
+    "console_bg": "#0a0a0a",
+    "console_text": "#00ff41",
+    "editor_bg": "#1a1a2e",
+    "editor_text": "#e0e0e0"
+  }
+}
